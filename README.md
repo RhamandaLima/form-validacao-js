@@ -35,7 +35,7 @@
 - `regex` para pré validação do CEP;
 - Requisição de API para obtenção do CEP no ViaCEP;
 - Preenchimento de campos com consumo de API; e 
-- Aplicação de máscara monetário para o campo de preço.
+- Aplicação de máscara monetária para o campo de preço.
 
 <hr>
 
